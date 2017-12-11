@@ -1,5 +1,5 @@
 # SC-configuration-Management
-Software Construction
+Software Construction Assignments
 
 Group Members
 
